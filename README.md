@@ -47,8 +47,10 @@ Nội dung học tập tập trung vào **3 ngôn ngữ cốt lõi của Web**:
 
 ## 📂 Cấu trúc thư mục
 
+```
 2026_CSE391_66ANM1_PHAMVANAN/
-└──Baithuchanh01/
+└── Baithuchanh01/
     ├── Bai3.html
     ├── Bai4.html
     └── Bai5.html
+```
